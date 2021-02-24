@@ -6,6 +6,8 @@ public class Q1 {
 		// TODO Auto-generated method stub
 		
 		multiplicationTable15(12);
+		
+		System.out.println("whoop it pushed");
 
 	}
 	
