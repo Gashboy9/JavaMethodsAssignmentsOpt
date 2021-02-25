@@ -8,6 +8,7 @@ public class Q1 {
 		multiplicationTable15(12);
 		
 		System.out.println("whoop it pushed");
+		System.out.println("editing from github);
 
 	}
 	
